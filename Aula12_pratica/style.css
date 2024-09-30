@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3
+{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+button{
+    text-align: center;
+    background-color: rgb(112, 112, 232);
+    border: none;
+    width: 180px;
+    height: 90px;
+    color: white;
+    font-size: 35px;
+    font-style: italic;
+}
+
+
+
+.botao1{
+    text-align: center;
+    
+}
